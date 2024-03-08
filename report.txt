@@ -1,0 +1,6 @@
+Info: Processing symbol 'A1:Module:Arduino_Nano'.
+Info: Processing symbol 'J1:Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5'.
+Info: Processing symbol 'U1:HMC5883L:LPCC16_HNW'.
+
+
+Info: Total warnings: 0, errors: 0.
